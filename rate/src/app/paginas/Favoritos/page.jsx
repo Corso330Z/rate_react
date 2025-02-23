@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./favoritos.module.css";  // Importa o arquivo de CSS Module
-import Header from "@/components/header/Header.jsx";
-import LateralBar from "@/components/lateralbar/lateralBar.jsx";
+import Header from "@/components/header/Header";
+import LateralBar from "@/components/lateralbar/lateralBar";
 
 const FavoritosADM = () => {
   return (

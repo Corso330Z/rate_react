@@ -1,8 +1,8 @@
 'use client';
 import React from "react";
 import styles from "./class_ator.module.css";
-import Header from "@/components/header/Header.jsx";
-import LateralBar from "@/components/lateralbar/lateralBar.jsx";
+import Header from "@/components/header/Header";
+import LateralBar from "@/components/lateralbar/lateralBar";
 import { useRouter } from "next/navigation";
 import { ArrowLeft } from 'lucide-react';
 

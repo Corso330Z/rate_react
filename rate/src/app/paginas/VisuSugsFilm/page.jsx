@@ -1,8 +1,8 @@
 'use client';
 import { useState } from "react";
 import styles from './v.module.css';
-import Header from "@/components/header/Header.jsx";
-import LateralBar from "@/components/lateralbar/lateralBar.jsx";
+import Header from "@/components/header/Header";
+import LateralBar from "@/components/lateralbar/lateralBar";
 import { BiSolidLike } from "react-icons/bi";
 import { BiSolidDislike } from "react-icons/bi";
 import { useRouter } from "next/navigation";

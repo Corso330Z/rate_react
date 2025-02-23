@@ -1,8 +1,8 @@
 'use client';
 import React from 'react';
 import styles from './PgnInicialAdm.module.css'
-import Header from "@/components/header/Header.jsx";
-import LateralBar from '@/components/lateralBarAdm/index.jsx';
+import Header from "@/components/header/Header";
+import LateralBar from '@/components/lateralBarAdm/LateralBarAdm';
 
 const Inicial = () => {
   return (
