@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./atores_ADM.module.css"
-import LateralBar from '../../components/lateralBarAdm/index';
-import Header from "@/app/components/header/Header.jsx";
+import Header from "@/components/header/Header.jsx";
+import LateralBar from '@/components/lateralBarAdm/index.jsx';
 
 const Atores = () => {
   return (

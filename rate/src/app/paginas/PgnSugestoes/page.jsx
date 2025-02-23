@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "@/app/components/header/Header.jsx";
 import styles from './sugestoes.module.css'
-import LateralBar from "@/app/components/lateralbar/LateralBar";
+import Header from "@/components/header/Header.jsx";
+import LateralBar from "@/components/lateralbar/lateralBar.jsx";
 
 
 const Sugestao = () => {

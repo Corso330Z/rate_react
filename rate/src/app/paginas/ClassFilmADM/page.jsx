@@ -1,7 +1,7 @@
 'use client';
 import React from "react";
-import Header from "@/app/components/header/Header.jsx";
-import LateralBar from '../../components/lateralBarAdm/index';
+import Header from "@/components/header/Header.jsx";
+import LateralBar from '@/components/lateralBarAdm/index.jsx';
 import styles from "./class_filmeADM.module.css";
 import { useRouter } from "next/navigation";
 import { ArrowLeft } from 'lucide-react';

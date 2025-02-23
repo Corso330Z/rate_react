@@ -1,8 +1,8 @@
 'use client';
 import React, { useState } from "react";
 import styles from './VisuSugsFilmeAdm.module.css';
-import Header from "@/app/components/header/Header.jsx";
-import LateralBar from '../../components/lateralBarAdm/index';
+import Header from "@/components/header/Header.jsx";
+import LateralBar from '@/components/lateralBarAdm/index.jsx';
 import { useRouter } from "next/navigation";
 import { ArrowLeft } from 'lucide-react';
 import { BiSolidLike } from "react-icons/bi";

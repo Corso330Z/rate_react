@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./atores.module.css";
-import LateralBar from "../../components/lateralbar/LateralBar";
-import Header from "@/app/components/header/Header.jsx";
+import Header from "@/components/header/Header.jsx";
+import LateralBar from "@/components/lateralbar/lateralBar.jsx";
 
 const Atores = () => {
   return (

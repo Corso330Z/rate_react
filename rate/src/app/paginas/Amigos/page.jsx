@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./amigos.module.css"; // Importação correta do CSS Module
-import Header from "@/app/components/header/Header.jsx";
-import LateralBar from "@/app/components/lateralbar/LateralBar";
+import Header from "@/components/header/Header.jsx";
+import LateralBar from "@/components/lateralbar/lateralBar.jsx";
 
 const Amigos = () => {
   return (

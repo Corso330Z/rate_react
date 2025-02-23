@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
-import Header from "@/app/components/header/Header.jsx";
-import LateralBar from "@/app/components/lateralbar/LateralBar";
+import Header from "@/components/header/Header.jsx";
+import LateralBar from "@/components/lateralbar/lateralBar.jsx";
 import { X } from "lucide-react";
 import styles from "./mi_sugs.module.css";
 import { useRouter } from "next/navigation";

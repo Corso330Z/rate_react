@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./generos.module.css";  // Importa o arquivo de CSS Module
-import LateralBar from "../../components/lateralbar/LateralBar";
-import Header from "@/app/components/header/Header.jsx";
+import Header from "@/components/header/Header.jsx";
+import LateralBar from "@/components/lateralbar/lateralBar.jsx";
 
 const genres = [
   "Ação", "Drama", "Para toda família", "Comédia", "Terror", "Ficção Científica", 
